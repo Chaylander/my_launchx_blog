@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Roberto Jáuregui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi travesía a través de launchX</title>
+      <link>https://example.com/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/post_1/</guid>
+      <description>6 semanas! se escuchan poco pero en realidad creo que si es un tiempo considerable, en el cual he puesto mucha dedicación para aprender las bases de front-end para poder crecer en el ámbito personal tanto como profesional!.
+ Onboarding Aprendimos python en el onboarding, me gustó porque es un lenguaje el cual ya conozco gracias a la escuela, a pesar de ser un lenguaje fácil de usar es muy poderoso y me parece un buen acercamiento para alguien que quiera aprender las bases de Semana 1  En la primera semana aprendimos las bases, las cuales fueron los requerimientos que tenemos que pedir al cliente para poder hacer un proyecto, ubicar a nuestro publico objetivo, asi como nuestros buyer persona etc, en lo personal lo único que llego a ser un poco complicado fue la toma de requerimientos, debido a que se pueden pedir muchos requisitos a la hora de hacer un proyecto de este tipo.</description>
+    </item>
+    
     <item>
       <title>La cultura de un desarrollador de Softwaree</title>
       <link>https://example.com/posts/intro/</link>
