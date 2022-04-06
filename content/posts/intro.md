@@ -7,9 +7,9 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 Usa este post para anotar tus expectativas de la misión.
 
 Hola!
-Para mi la cultura de un(a) profesional desallorador(a) de software
+Para mi la cultura de un(a) profesional desarrollador(a) de software
 
--Dediación
--Estar actualizado en la tecnología
--Respeto
--Trabajo en equipo
+- Dedicación
+- Estar actualizado en la tecnología
+- Respeto
+- Trabajo en equipo
